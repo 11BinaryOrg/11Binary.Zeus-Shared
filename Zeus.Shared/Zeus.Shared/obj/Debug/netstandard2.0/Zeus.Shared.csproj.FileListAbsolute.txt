@@ -1,0 +1,12 @@
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\bin\Debug\netstandard2.0\Zeus.Shared.deps.json
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\bin\Debug\netstandard2.0\Zeus.Shared.dll
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\bin\Debug\netstandard2.0\Zeus.Shared.pdb
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\bin\Debug\netstandard2.0\Mercury.Shared.dll
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\bin\Debug\netstandard2.0\Mercury.Shared.pdb
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.csprojAssemblyReference.cache
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.AssemblyInfoInputs.cache
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.AssemblyInfo.cs
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.csproj.CoreCompileInputs.cache
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.csproj.CopyComplete
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.dll
+C:\Users\JamesRooks\OneDrive\Projects\Zeus\2018\Standard\Zeus.Shared\Zeus.Shared\obj\Debug\netstandard2.0\Zeus.Shared.pdb

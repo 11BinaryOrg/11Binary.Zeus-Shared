@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEjrQsdjIs065+hb4NTWCctuKDP3INEOZHIdtIHepXFPg+q88TLaGlqapWDBEF1sTjTHLokKcZy+nx+TzzNPlw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\JamesRooks\\source\\repos\\Zeus\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\JamesRooks\\Mercury\\2018\\Standard\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\JamesRooks\\Mercury\\2018\\Standard\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
