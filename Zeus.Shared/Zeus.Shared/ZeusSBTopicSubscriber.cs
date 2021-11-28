@@ -1,5 +1,5 @@
 ﻿using Mercury.Shared;
-using Newtonsoft.Json;
+using System.Text.Json;
 using System;
 using System.Linq;
 using System.Net.Http;
@@ -89,7 +89,7 @@ namespace Zeus.Shared
                             {
 
 
-                                ReceivedMessage rm = JsonConvert.DeserializeObject<ReceivedMessage>(message);
+                                ReceivedMessage rm = JsonSerializer.Deserialize<ReceivedMessage>(message);
                                 if (rm != null && message.Length >0)
                                 {
                                     DataReturnArgs args = new DataReturnArgs();
@@ -144,7 +144,7 @@ namespace Zeus.Shared
                 string sasToken = GlobalHelper.GenerateSasToken(this.appSettings.BaseURI, this.appSettings.ServiceBus_SharedKeyName, this.appSettings.ServiceBus_SharedKey);
                 //client.DefaultRequestHeaders.TryAddWithoutValidation("content-type", "appliation/json");
                 req.Headers.Add("Authorization", sasToken);
-                string data = JsonConvert.SerializeObject(rm);
+                string data = JsonSerializer.Serialize(rm);
                 req.Content = new StringContent(data, System.Text.Encoding.UTF8, "application/json");
                 req.Method = HttpMethod.Post;
                 //req.RequestUri = new Uri(connection.PublishURLFormat);

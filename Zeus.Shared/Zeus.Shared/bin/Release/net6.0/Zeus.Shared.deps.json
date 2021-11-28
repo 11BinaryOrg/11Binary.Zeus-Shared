@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zeus.Shared/2.0.1": {
+        "dependencies": {
+          "11Binary.Mercury.Shared": "2.0.0"
+        },
+        "runtime": {
+          "Zeus.Shared.dll": {}
+        }
+      },
+      "11Binary.Mercury.Shared/2.0.0": {
+        "runtime": {
+          "lib/net6.0/11Binary.Mercury.Shared.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zeus.Shared/2.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11Binary.Mercury.Shared/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CNoA3XI2YMTZNyKKKvG5vuj+et/nc/UmrTOAYtufMLbmkd/PZykDTRYMbjgkXNogYu9yI4PxQWWdscwJXdWB7w==",
+      "path": "11binary.mercury.shared/2.0.0",
+      "hashPath": "11binary.mercury.shared.2.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,5 +1,5 @@
 ﻿using Mercury.Shared;
-using Newtonsoft.Json;
+using System.Text.Json;
 using System;
 using System.Collections.Generic;
 //using System.Configuration;
@@ -305,7 +305,7 @@ namespace Zeus.Shared
                 DataReturnArgs args = new DataReturnArgs();
                 args.ReceivedMessage = rm;
                 args.CorelationID = rm.CorelationId;
-                args.Message = JsonConvert.SerializeObject(rm);
+                args.Message = JsonSerializer.Serialize(rm);
                 args.SessionID = rm.SessionId;
                 OnDataAvailable(this, args);
                 SimpleMessageReturnArgs sargs = new SimpleMessageReturnArgs();

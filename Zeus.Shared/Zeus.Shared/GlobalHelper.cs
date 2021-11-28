@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
 using System.Security.Cryptography;
-using Newtonsoft.Json;
+using System.Text.Json;
 using System.IO;
 using System.Globalization;
 using System.Threading;
@@ -17,8 +17,7 @@ namespace Zeus.Shared
 {
     public static class GlobalHelper
     {
-        
-
+        [Obsolete]
         public   static async  Task<HttpRequestMessage> TranslateReceivedMessageToRequestMessage(ReceivedMessage rm)
         {
           
@@ -47,7 +46,7 @@ namespace Zeus.Shared
                     bmDict.Add("CorelationId", rm.CorelationId);
                     bmDict.Add("ReplyTo", rm.ReplyTo);
                     bmDict.Add("SessionId", rm.SessionId);
-                    string brokerproperties = JsonConvert.SerializeObject(bmDict);
+                    string brokerproperties = JsonSerializer.Serialize(bmDict);
                     req.Headers.Add("BrokerProperties", brokerproperties);
                     //req.Content = new StringContent(rm.Message);
    

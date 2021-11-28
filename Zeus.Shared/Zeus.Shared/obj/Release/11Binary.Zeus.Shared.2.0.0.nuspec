@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>11Binary.Zeus.Shared</id>
+    <version>2.0.0</version>
+    <authors>Zeus.Shared</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="11Binary.Mercury.Shared" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="newtonsoft.json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Release\net6.0\Zeus.Shared.dll" target="lib\net6.0\Zeus.Shared.dll" />
+  </files>
+</package>

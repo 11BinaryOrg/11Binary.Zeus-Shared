@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c4a28e2-a128-4c9f-840c-46afe61b03e8": {
+      "ProjectGuid": "2c4a28e2-a128-4c9f-840c-46afe61b03e8",
+      "DisplayName": "Zeus.Shared",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
