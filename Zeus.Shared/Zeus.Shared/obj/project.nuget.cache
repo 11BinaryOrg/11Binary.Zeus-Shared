@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "IAifsTxD19bzuu4+RrvNg58LO1ageK72k+QgWxW2Ywv48dfpRfreKD4J5oGCkodX4cyY1N87TUCnaDHOTsH2ag==",
+  "dgSpecHash": "P8rksObr/H5m7EG2vjx2xcCBFE0ID+uGf/j+dH+hdYT/gPB7yKtp/pN88z0fO8WTpGCAk5eEs4EXA2GzngDEsQ==",
   "success": true,
   "projectFilePath": "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\11binary.mercury.shared\\2.0.0\\11binary.mercury.shared.2.0.0.nupkg.sha512"
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\11binary.mercury.shared\\2.0.2\\11binary.mercury.shared.2.0.2.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\google.protobuf\\3.19.1\\google.protobuf.3.19.1.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.core\\2.42.0\\grpc.core.2.42.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.net.client\\2.41.0\\grpc.net.client.2.41.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.net.common\\2.41.0\\grpc.net.common.2.41.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.tools\\2.42.0\\grpc.tools.2.42.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

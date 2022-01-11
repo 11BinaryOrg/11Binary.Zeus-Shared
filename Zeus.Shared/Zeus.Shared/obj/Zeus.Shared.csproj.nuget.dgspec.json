@@ -5,7 +5,7 @@
   },
   "projects": {
     "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj": {
-      "version": "2.0.1",
+      "version": "2.0.2",
       "restore": {
         "projectUniqueName": "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
         "projectName": "11Binary.Zeus.Shared",
@@ -47,7 +47,25 @@
           "dependencies": {
             "11Binary.Mercury.Shared": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[2.0.2, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.19.1, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.41.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.42.0, )"
             }
           },
           "imports": [
@@ -65,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
