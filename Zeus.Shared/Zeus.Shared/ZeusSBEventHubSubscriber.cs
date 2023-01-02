@@ -9,7 +9,7 @@ using System.Threading;
 
 namespace Zeus.Shared
 {
-    internal class ZeusSBEventHubSubscriber :ZeusSubscriberFactoryBase
+    internal class ZeusSBEventHubSubscriber :ZeusSubscriberBase
     {
         private bool _cancel = false;
         public CancellationTokenSource cts = new CancellationTokenSource();

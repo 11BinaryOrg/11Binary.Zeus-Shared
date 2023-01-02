@@ -8,7 +8,7 @@ using Mercury.Shared;
 
 namespace Zeus.Shared
 {
-    public class ZeusSubscriberFactoryBase : IZeusSubscriber
+    public class ZeusSubscriberBase : IZeusSubscriber
     {
         public virtual  event GlobalDelegates.DataAvailableEventHandler OnDataAvailable;
 
@@ -23,7 +23,7 @@ namespace Zeus.Shared
         protected HttpClient subscribeClient;
         protected HttpClient publishClient;
 
-        public ZeusSubscriberFactoryBase(IApplicationSettings settings, IZeusConnection conn)
+        public ZeusSubscriberBase(IApplicationSettings settings, IZeusConnection conn)
         {
             this.appSettings = settings;
             Connection = conn;

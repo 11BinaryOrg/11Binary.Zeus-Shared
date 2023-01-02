@@ -10,7 +10,7 @@ using System.Xml.Linq;
 
 namespace Zeus.Shared
 {
-    public  class ZeusSBTopicSubscriber : ZeusSubscriberFactoryBase
+    public  class ZeusSBTopicSubscriber : ZeusSubscriberBase
     {
         private bool _cancel = false;
         public CancellationTokenSource cts = new CancellationTokenSource();

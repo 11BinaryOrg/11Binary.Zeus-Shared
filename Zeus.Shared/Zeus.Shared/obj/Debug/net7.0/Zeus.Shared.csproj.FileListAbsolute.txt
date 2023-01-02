@@ -1,0 +1,16 @@
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Debug\net7.0\Protos\communication.proto
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Debug\net7.0\Zeus.Shared.deps.json
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Debug\net7.0\Zeus.Shared.dll
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Debug\net7.0\Zeus.Shared.pdb
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Debug\net7.0\11Binary.Mercury.Shared.dll
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\bin\Debug\net7.0\11Binary.Mercury.Shared.pdb
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.csproj.AssemblyReference.cache
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.AssemblyInfoInputs.cache
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.AssemblyInfo.cs
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.csproj.CoreCompileInputs.cache
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.csproj.CopyComplete
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.dll
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\refint\Zeus.Shared.dll
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\Zeus.Shared.pdb
+F:\source\repos\11Binary.Zeus.Shared\Zeus.Shared\Zeus.Shared\obj\Debug\net7.0\ref\Zeus.Shared.dll

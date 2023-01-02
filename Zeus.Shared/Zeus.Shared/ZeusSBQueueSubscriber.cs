@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace Zeus.Shared
 {
-    public class ZeusSBQueueSubscriber : ZeusSubscriberFactoryBase
+    public class ZeusSBQueueSubscriber : ZeusSubscriberBase
     {
         private bool _cancel = false;
         public CancellationTokenSource cts = new CancellationTokenSource();
