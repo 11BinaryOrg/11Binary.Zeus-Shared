@@ -1,109 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj": {}
+    "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Zeus-Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj": {}
   },
   "projects": {
-    "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj": {
-      "version": "2.0.2",
+    "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Mercury.Shared\\Mercury.Shared.csproj": {
+      "version": "2.1.0",
       "restore": {
-        "projectUniqueName": "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
-        "projectName": "11Binary.Zeus.Shared",
-        "projectPath": "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Mercury.Shared\\Mercury.Shared.csproj",
+        "projectName": "Mercury.Shared",
+        "projectPath": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Mercury.Shared\\Mercury.Shared.csproj",
         "packagesPath": "C:\\Users\\JamesRooks\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\JamesRooks\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {
-              "F:\\source\\repos\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj": {
-                "projectPath": "F:\\source\\repos\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "11Binary.Mercury.Shared": {
-              "target": "Package",
-              "version": "[2.0.2, )"
-            },
-            "11Binary.Nats.Shared": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "Google.Protobuf": {
-              "target": "Package",
-              "version": "[3.21.12, )"
-            },
-            "Grpc.Core": {
-              "target": "Package",
-              "version": "[2.46.5, )"
-            },
-            "Grpc.Net.Client": {
-              "target": "Package",
-              "version": "[2.50.0, )"
-            },
-            "Grpc.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.51.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "F:\\source\\repos\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj": {
-      "version": "2.0.3",
-      "restore": {
-        "projectUniqueName": "F:\\source\\repos\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj",
-        "projectName": "11Binary.Mercury.Shared",
-        "projectPath": "F:\\source\\repos\\Mercury.Shared\\Mercury.Shared\\Mercury.Shared.csproj",
-        "packagesPath": "C:\\Users\\JamesRooks\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\Mercury.Shared\\Mercury.Shared\\obj\\",
+        "outputPath": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Mercury.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,7 +60,91 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Zeus-Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj": {
+      "version": "2.0.2",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Zeus-Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
+        "projectName": "11Binary.Zeus.Shared",
+        "projectPath": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Zeus-Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
+        "packagesPath": "C:\\Users\\JamesRooks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Zeus-Shared\\Zeus.Shared\\Zeus.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JamesRooks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Mercury.Shared\\Mercury.Shared.csproj": {
+                "projectPath": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Mercury.Shared\\Mercury.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.22.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.46.6, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.51.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.51.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

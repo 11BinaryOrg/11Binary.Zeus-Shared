@@ -1,0 +1,5 @@
+C:\Users\JamesRooks\Source\Repos\11Binary.Zeus-Shared\Zeus.Shared\Zeus.Shared\obj\Release\net7.0\Zeus.Shared.csproj.AssemblyReference.cache
+C:\Users\JamesRooks\Source\Repos\11Binary.Zeus-Shared\Zeus.Shared\Zeus.Shared\obj\Release\net7.0\Zeus.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamesRooks\Source\Repos\11Binary.Zeus-Shared\Zeus.Shared\Zeus.Shared\obj\Release\net7.0\Zeus.Shared.AssemblyInfoInputs.cache
+C:\Users\JamesRooks\Source\Repos\11Binary.Zeus-Shared\Zeus.Shared\Zeus.Shared\obj\Release\net7.0\Zeus.Shared.AssemblyInfo.cs
+C:\Users\JamesRooks\Source\Repos\11Binary.Zeus-Shared\Zeus.Shared\Zeus.Shared\obj\Release\net7.0\Zeus.Shared.csproj.CoreCompileInputs.cache

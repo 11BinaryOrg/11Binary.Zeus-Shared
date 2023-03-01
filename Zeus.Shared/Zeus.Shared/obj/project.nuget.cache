@@ -1,15 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "khUUvL/nkqaI9mi4+eI/GPC1+8bQZ0nirOzvYoZxuc0M6qzTJO/VmTbLyrhqwK8LRT9hhlGlbGK3HxH8K63XNw==",
+  "dgSpecHash": "CTakZLj1ItWjTq7+7JEjlbht4q9Os030vd7W+K96gJbbkzImZfxWrPEmxHI7Z5eB9nwYmuERpKTjpD6VJrvwaA==",
   "success": true,
-  "projectFilePath": "F:\\source\\repos\\11Binary.Zeus.Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
+  "projectFilePath": "C:\\Users\\JamesRooks\\source\\repos\\11Binary.Zeus-Shared\\Zeus.Shared\\Zeus.Shared\\Zeus.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\11binary.nats.shared\\1.0.0\\11binary.nats.shared.1.0.0.nupkg.sha512",
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\google.protobuf\\3.21.12\\google.protobuf.3.21.12.nupkg.sha512",
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.core\\2.46.5\\grpc.core.2.46.5.nupkg.sha512",
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.net.client\\2.50.0\\grpc.net.client.2.50.0.nupkg.sha512",
-    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\google.protobuf\\3.22.0\\google.protobuf.3.22.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.core.api\\2.51.0\\grpc.core.api.2.51.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.net.client\\2.51.0\\grpc.net.client.2.51.0.nupkg.sha512",
+    "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.net.common\\2.51.0\\grpc.net.common.2.51.0.nupkg.sha512",
     "C:\\Users\\JamesRooks\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
     "C:\\Users\\JamesRooks\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\JamesRooks\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"

@@ -18,11 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="11Binary.Mercury.Shared" Version="2.0.2" />
-    <PackageReference Include="11Binary.Nats.Shared" Version="1.0.0" />
-    <PackageReference Include="Google.Protobuf" Version="3.21.12" />
-    <PackageReference Include="Grpc.Core" Version="2.46.5" />
-    <PackageReference Include="Grpc.Net.Client" Version="2.50.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.22.0" />
+    <PackageReference Include="Grpc.Core" Version="2.46.6" />
+    <PackageReference Include="Grpc.Net.Client" Version="2.51.0" />
     <PackageReference Include="Grpc.Tools" Version="2.51.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -30,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Mercury.Shared\Mercury.Shared\Mercury.Shared.csproj" />
+    <ProjectReference Include="..\..\..\11Binary.Mercury.Shared\Mercury.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>
